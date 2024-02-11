@@ -1,3 +1,5 @@
+Student Code: svyas44
+
 Files uploadeded and their description:
 
 Datasets used:
@@ -9,7 +11,9 @@ Python Code in Jupyter Notebooks:
 "Adult_income_dataset.ipynb": Code for Wine Dataset
 
 Output Images:
-Under the folder /output_images
+Under the folder 
+/Data/wine_dataset_output_images
+/Data/adult_income_dataset_output_images
 
 Report file:
 svyas44-analysis.pdf
