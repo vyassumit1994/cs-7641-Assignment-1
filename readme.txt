@@ -18,3 +18,7 @@ Under the folder
 Report file: 
 - svyas44-analysis.pdf 
 - svyas44-analysis.docx
+
+
+All files uploaded in Github: https://github.com/vyassumit1994/cs-7641-Assignment-1.git
+All files uploaded in Box
